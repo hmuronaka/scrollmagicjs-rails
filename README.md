@@ -2,7 +2,7 @@
 
 This gem provides ScrollMagic for your Rails 4+ application.
 
-ScrollMagic version	1.1.2
+ScrollMagic version	2.0.3
 
 ## Installation
 
