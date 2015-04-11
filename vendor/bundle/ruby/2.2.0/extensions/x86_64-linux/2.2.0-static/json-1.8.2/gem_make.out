@@ -1,0 +1,9 @@
+/home/hmu/.rbenv/versions/2.2.1/bin/ruby -r ./siteconf20150411-2414-1ck4vle.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: `all' に対して行うべき事はありません.
+
+make "DESTDIR=" install
